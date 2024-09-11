@@ -2,4 +2,4 @@
 
 The exercise can be found here:
 
-[https://mickeycampbell.github.io/lidR-exercise/](https://mickeycampbell.github.io/lidR-exercise/){target="_blank"}
+[https://mickeycampbell.github.io/lidR-exercise/](https://mickeycampbell.github.io/lidR-exercise/)
