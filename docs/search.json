@@ -7,13 +7,6 @@
     "text": "Before You Begin…\n\n\n\nTo successfully work your way through this exercise requires that you have: (1) a working computer with at least four cores, at least 8GB of RAM, at least 2GB free storage (local or network); (2) R installed (the exercise is generated on a machine with R 4.4.1, but that’s not a strict requirement), perhaps along with your IDE of choice (e.g., RStudio); and (3) an internet connection. The first requirement may be somewhat flexible, but data processing may be slow with a less capable computer."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html#a.-what-is-lidar",
     "href": "index.html#a.-what-is-lidar",
     "title": "Working with Lidar Data in R",
